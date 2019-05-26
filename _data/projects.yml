@@ -1,0 +1,31 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# FlexPLM
+- project: FlexPLM
+  role: Senior Software Specialist
+  duration: Jan 2017 &mdash; Present
+  # url: "#"
+  description: The Leading PLM Solution for Retail, Fashion, Footwear, Apparel and Consumer Products. It is built on top of Windchill.
+
+# Master Enterprise Catalog (MEC)
+- project: Master Enterprise Catalog (MEC)
+  role: Software Developer
+  duration: Aug 2015 &mdash; Jan 2017
+  # url: "#"
+  description: Accelerating agility and time to market, MEC is an holistic, centralized data repository, created to consolidate and manage all products and related information across the various BSS/OSS, Network, commerce platforms.
+
+# Graphical Browser Capitalization
+- project: Graphical Browser Capitalization
+  role: Software Engineer
+  duration: Mar 2015 &mdash; Aug 2015
+  # url: "#"
+  description: Graphical Browser provides capability to edit and view the BOM graphically. This feature was developed for Enovia13x with 2 key features- a. Graphical browser for BOM b. Page header extension.
+
+# Absolute Positioning & Tracking System (APTS)
+- project: Absolute Positioning & Tracking System (APTS)
+  role: Associate Consultant
+  duration: Dec 2013 &mdash; Mar 2015
+  # url: "#"
+  description: APTS provides an efficient solution to optimize crane movement and track & locate slabs in a yard. It enables companies to leverage their information assets through improving the efficiency of the logistics operations and inventory management.
+

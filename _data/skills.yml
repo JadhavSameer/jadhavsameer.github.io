@@ -1,0 +1,16 @@
+# Skills
+# Java Technologies
+- skill: Technologies
+  description: JAVA, Java EE, RESTful Web services, Groovy, Spring, Hibernate, Angular, JavaScript, ZK.
+
+# Database
+- skill: Database
+  description: SQL, NoSQL
+
+# Servers
+- skill: Servers
+  description: Tomcat, WebLogic
+
+# IDE
+- skill: IDE
+  description: Eclipse, NetBeans

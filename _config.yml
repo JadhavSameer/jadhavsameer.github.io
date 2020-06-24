@@ -1,6 +1,7 @@
 # Site settings
 title: Sameer R. Jadhav
 logo: https://avatars2.githubusercontent.com/u/22472951
+logo_custom: images/avatar1.jpg
 description: Java Developer
 show_downloads: true
 google_analytics:
@@ -12,7 +13,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"  #true, false, none
 resume_name:                    "Sameer R. Jadhav"
 resume_title:                   "Senior Software Specialist at PTC"
 

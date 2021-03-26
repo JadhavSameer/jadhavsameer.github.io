@@ -87,7 +87,7 @@
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
 <!--           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3> -->
-          <h3 class="resume-item-title" itemprop="name"> <a href="{{ job.url }}">{{ job.company }}</a> </h3>
+          <h3 class="resume-item-title" itemprop="name"> <a href="{{ job.url }}" target="_blank">{{ job.company }}</a> </h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
@@ -247,7 +247,7 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="https://www.linkedin.com/in/sameerravikantjadhav/">@samjadhav</a>.</p>
+        <p class="footer-line">Made by <a href="https://www.linkedin.com/in/sameerravikantjadhav/" target="_blank">@samjadhav</a>.</p>
       </footer>
 
     </div>

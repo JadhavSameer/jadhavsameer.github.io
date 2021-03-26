@@ -2,26 +2,31 @@
 - degree: M.E. Computer
   uni: Savitribai Phule Pune University
   year: 2015 &mdash; 2017
-  awards:
-    - award: 84.45 CGPA
+#   awards:
+#     - award: 84.45 CGPA
+  award: 84.45 CGPA - First class with distinction
   summary: MMCOE, Pune 411052
 
 - degree: B.E. Computer
   uni: Pune University
   year: 2010 &mdash; 2013
-  awards:
-    - award: 65%
+#   awards:
+#     - award: 65%
+  award: First class
   summary: MMCOE, Pune 411052
 
 - degree: Diploma in Computer Engineering
   uni: Maharashtra State Board of Technical Education
   year: 2009
-  awards:
-    - award: 67.45%
+#   awards:
+#     - award: 67.45%
+  award: First class
   summary: Dr. D. Y. Patil Polytechnic, Akurdi, Pune 411044
 
 - degree: SSC
   uni: Maharashtra State Board
   year: 2006
+#   awards:
+#     - award: 63.60%
   awards: First Class
   summary: Samarth Ramdas Vidyalaya, Mahad 402309 

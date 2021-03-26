@@ -15,7 +15,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"  #true, false, none
 resume_name:                    "Sameer R. Jadhav"
-resume_title:                   "Senior Software Specialist at PTC"
+resume_title:                   "Senior Technical Lead at PTC"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "sameer.jadhav01@gmail.com"
